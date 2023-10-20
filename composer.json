@@ -1,5 +1,5 @@
 {
-    "name": "benjaminhirsch/nova-slug-field",
+    "name": "ellefsen/nova-slug-field",
     "description": "A Laravel Nova field to generate a slugs.",
     "keywords": [
         "laravel",
